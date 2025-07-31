@@ -1,0 +1,12 @@
+com\catalogo\libros\dto\AutorDTO.class
+com\catalogo\libros\model\Libro.class
+com\catalogo\libros\service\IConvierteDatos.class
+com\catalogo\libros\LibrosApplication.class
+com\catalogo\libros\model\Autor.class
+com\catalogo\libros\service\ConsumoAPI.class
+com\catalogo\libros\repository\LibroRepository.class
+com\catalogo\libros\service\LibroService.class
+com\catalogo\libros\service\ConvierteDatos.class
+com\catalogo\libros\dto\GutendexResponse.class
+com\catalogo\libros\dto\LibroDTO.class
+com\catalogo\libros\repository\AutorRepository.class
